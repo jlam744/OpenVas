@@ -10,7 +10,7 @@ The scanner obtains the tests for detecting vulnerabilities from a feed that has
 <br />
 
 <h2>Using Security Assistant</h2>
-<b>- Log into Greenbone Security Assistant and start a default scan of the OWASP Server using the Task Wizard Tool:</b> 
+Log into Greenbone Security Assistant and start a default scan of the OWASP Server using the Task Wizard Tool:
 <br />
 <br />
 
